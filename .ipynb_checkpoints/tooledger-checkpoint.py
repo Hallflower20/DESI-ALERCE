@@ -20,7 +20,7 @@ import numpy as np
 
 
 # Time window to allow fiberassign to use the alert, in days.
-delta_t = 90
+delta_t = 7
 
 
 class DESICalibField :
